@@ -4,7 +4,7 @@
 
 ### Data Science 
 
-[Review Prediction and Sentimental Analysis](https://github.com/abhigyanmisra/dsc680/Project1/Proposal - Review Prediction and Sentimental Analysis.docx)
+[Review Prediction and Sentimental Analysis](https://github.com/abhigyanmisra/dsc680/blob/master/Project1/Proposal%20-%20Review%20Prediction%20and%20Sentimental%20Analysis.docx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
