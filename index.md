@@ -28,11 +28,11 @@
 
 ### Data Visualization - Dashboards - Using Power BI
 - [Dashboard 1 - Airline Safety](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/DSC640ProjectDashboard.pdf)
-  [Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/DSC640ProjectDashboard.pbix)
+  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/DSC640ProjectDashboard.pbix)
 - [Dashboard 2 - Sales Revenue & Profits](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/Milestone1-Dashboard-Repeat.pdf)
-  [Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/Milestone1-Dashboard-Repeat.pbix)
+  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/Milestone1-Dashboard-Repeat.pbix)
 - [Dashboard 3 - CO2 Emissions & Rising Temperatures](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/Milestone1-Environment-Dashboard.pdf)
-  [Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/Milestone1-Environment-Dashboard.pbix)
+  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/Milestone1-Environment-Dashboard.pbix)
 
 ---
 
