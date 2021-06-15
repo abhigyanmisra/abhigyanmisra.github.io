@@ -25,7 +25,11 @@
 - [Prediction of Mortality Risk for Cardio Vascular Patients: Using Python](https://github.com/abhigyanmisra/dsc530/blob/master/Final/DSC530_FinalProject_AbhigyanMisra.ipynb)
 - [Prediction of Mortality Risk for Cardio Vascular Patients: Using R](https://github.com/abhigyanmisra/dsc520/blob/master/completed/FinalDataSet3/Final_DS3_MisraAbhigyan.html)
 - [Predicting Readmission of Diabetic Patients](https://github.com/abhigyanmisra/dsc630/blob/master/FinalProject/Milestone3-PreliminaryAnalysis.ipynb)
+
+### Dashboards - Using Power BI
 - [Dashboard 1 - Airline Safety](https://github.com/abhigyanmisra/dsc640/blob/master/FinalProject/DSC640ProjectDashboard.pdf)
+- [Dashboard 2 - Sales Revenue & Profits](https://github.com/abhigyanmisra/dsc640/blob/master/FinalProject/Milestone1-Repeat/Milestone1-Dashboard-Repeat.pdf)
+- [Dashboard 3 - CO2 Emissions & Rising Temperatures]
 
 ---
 
