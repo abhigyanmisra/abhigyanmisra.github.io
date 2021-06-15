@@ -11,7 +11,7 @@
 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Share Price Prediction](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -21,7 +21,7 @@
 ---
 ### Other Data Science Projects
 
-- [2019 Indian General Elections Analysis](http://example.com/)
+- [2019 Indian General Elections Analysis](https://github.com/abhigyanmisra/dsc540/blob/master/finalproject/FinalProject.ipynb)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
