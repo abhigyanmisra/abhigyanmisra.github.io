@@ -22,10 +22,10 @@
 ### Other Data Science Projects
 
 - [2019 Indian General Elections Analysis](https://github.com/abhigyanmisra/dsc540/blob/master/finalproject/FinalProject.ipynb)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Prediction of Mortality Risk for Cardio Vascular Patients: Using Python](https://github.com/abhigyanmisra/dsc530/blob/master/Final/DSC530_FinalProject_AbhigyanMisra.ipynb)
+- [Prediction of Mortality Risk for Cardio Vascular Patients: Using R](https://github.com/abhigyanmisra/dsc520/blob/master/completed/FinalDataSet3/Final_DS3_MisraAbhigyan.html)
+- [Predicting Readmission of Diabetic Patients](https://github.com/abhigyanmisra/dsc630/blob/master/FinalProject/Milestone3-PreliminaryAnalysis.ipynb)
+- [Dashboard 1 - Airline Safety](https://github.com/abhigyanmisra/dsc640/blob/master/FinalProject/DSC640ProjectDashboard.pdf)
 
 ---
 
