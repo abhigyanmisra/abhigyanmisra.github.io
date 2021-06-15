@@ -19,10 +19,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+### Other Data Science Projects
 
-### AWS, Microservices, Rules Engines
-
-- [Project 1 Title](http://example.com/)
+- [2019 Indian General Elections Analysis](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -30,8 +29,10 @@
 
 ---
 
-
-
+### AWS, Microservices, Rules Engines
+- [Rest API Gateway with Zuul](http://example.com/)
+- [Simple Spring boot Microservice](http://example.com/)
+- [H2O Machine Learning Model as Microservice](http://example.com/)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
