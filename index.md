@@ -27,12 +27,12 @@
 - [Predicting Readmission of Diabetic Patients](https://github.com/abhigyanmisra/dsc630/blob/master/FinalProject/Milestone3-PreliminaryAnalysis.ipynb)
 
 ### Data Visualization - Dashboards - Using Power BI
-- [Dashboard 1 - Airline Safety](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/DSC640ProjectDashboard.pdf)
-  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/DSC640ProjectDashboard.pbix)
-- [Dashboard 2 - Sales Revenue & Profits](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/Milestone1-Dashboard-Repeat.pdf)
-  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/Milestone1-Dashboard-Repeat.pbix)
-- [Dashboard 3 - CO2 Emissions & Rising Temperatures](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/Milestone1-Environment-Dashboard.pdf)
-  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/Milestone1-Environment-Dashboard.pbix)
+- [Dashboard 1 - Airline Safety](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/README.md)
+  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/DSC640ProjectDashboard.pbix)|[PDF](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/DSC640ProjectDashboard.pdf)
+- [Dashboard 2 - Sales Revenue & Profits](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/README.md)
+  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/Milestone1-Dashboard-Repeat.pbix)|[PDF](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/Milestone1-Dashboard-Repeat.pdf)
+- [Dashboard 3 - CO2 Emissions & Rising Temperatures](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/README.md)
+  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/Milestone1-Environment-Dashboard.pbix)|[PDF](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/Milestone1-Environment-Dashboard.pdf)
 
 ---
 
