@@ -6,9 +6,9 @@
 
 [Review Prediction and Sentimental Analysis](https://github.com/abhigyanmisra/dsc680/blob/master/Project1){:target="_blank"}
 <br>
-[Project Proposal](https://github.com/abhigyanmisra/dsc680/blob/master/Project1/Proposal%20-%20Review%20Prediction%20and%20Sentimental%20Analysis.docx)
+[Project Proposal](https://github.com/abhigyanmisra/dsc680/blob/master/Project1/Proposal%20-%20Review%20Prediction%20and%20Sentimental%20Analysis.docx){:target="_blank"}|[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Project1/ReviewPredictionNSentimentalAnalysis.ipynb){:target="_blank"}
+<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 
 ---
 [Share Price Prediction](/pdf/sample_presentation.pdf)
