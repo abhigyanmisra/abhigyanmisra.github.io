@@ -4,7 +4,7 @@
 
 ### Data Science 
 
-[Review Prediction and Sentimental Analysis](https://github.com/abhigyanmisra/dsc680/blob/master/Project1/Readme.md)
+[Review Prediction and Sentimental Analysis](https://github.com/abhigyanmisra/dsc680/blob/master/Project1){:target="_blank"}
 <br>
 [Project Proposal](https://github.com/abhigyanmisra/dsc680/blob/master/Project1/Proposal%20-%20Review%20Prediction%20and%20Sentimental%20Analysis.docx)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -27,12 +27,12 @@
 - [Predicting Readmission of Diabetic Patients](https://github.com/abhigyanmisra/dsc630/blob/master/FinalProject/Milestone3-PreliminaryAnalysis.ipynb)
 
 ### Data Visualization - Dashboards - Using Power BI
-- [Dashboard 1 - Airline Safety](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/README.md)
-  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/DSC640ProjectDashboard.pbix)|[PDF](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/DSC640ProjectDashboard.pdf)
-- [Dashboard 2 - Sales Revenue & Profits](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/README.md)
-  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/Milestone1-Dashboard-Repeat.pbix)|[PDF](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/Milestone1-Dashboard-Repeat.pdf)
-- [Dashboard 3 - CO2 Emissions & Rising Temperatures](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/README.md)
-  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/Milestone1-Environment-Dashboard.pbix)|[PDF](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/Milestone1-Environment-Dashboard.pdf)
+- [Dashboard 1 - Airline Safety](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline){:target="_blank"}
+  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/DSC640ProjectDashboard.pbix){:target="_blank"}|[PDF](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline/DSC640ProjectDashboard.pdf){:target="_blank"}
+- [Dashboard 2 - Sales Revenue & Profits](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue){:target="_blank"}
+  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/Milestone1-Dashboard-Repeat.pbix){:target="_blank"}|[PDF](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/SalesNRevenue/Milestone1-Dashboard-Repeat.pdf){:target="_blank"}
+- [Dashboard 3 - CO2 Emissions & Rising Temperatures](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment){:target="_blank"}
+  <br>[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/Milestone1-Environment-Dashboard.pbix){:target="_blank"}|[PDF](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Environment/Milestone1-Environment-Dashboard.pdf){:target="_blank"}
 
 ---
 
