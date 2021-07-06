@@ -8,17 +8,17 @@
 <br>
 [Project Proposal](https://github.com/abhigyanmisra/dsc680/blob/master/Project1/Proposal%20-%20Review%20Prediction%20and%20Sentimental%20Analysis.docx){:target="_blank"}|[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Project1/ReviewPredictionNSentimentalAnalysis.ipynb){:target="_blank"}
 <br>
-<img src="images/ecommerce-retail.png?width=100"/>
+<img src="images/ecommerce-retail.png" width="100" />
 
 ---
 [Share Price Prediction](/pdf/sample_presentation.pdf){:target="_blank"}
 <br>
-<img src="images/stock-market.jpg?width=100"/>
+<img src="images/stock-market.jpg" width="100"/>
 
 ---
 [Customer Segmentation](http://example.com/){:target="_blank"}
 <br>
-<img src="images/customer-segmentation.png?width=100"/>
+<img src="images/customer-segmentation.png" width="100"/>
 
 ---
 ### Other Data Science Projects
