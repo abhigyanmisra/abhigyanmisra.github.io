@@ -11,12 +11,14 @@
 <img src="images/ecommerce-retail.png?raw=true"/>
 
 ---
-[Share Price Prediction](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Share Price Prediction](/pdf/sample_presentation.pdf){:target="_blank"}
+<br>
+<img src="images/share-trends.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Customer Segmentation](http://example.com/){:target="_blank"}
+<br>
+<img src="images/customer-segmentation.jpg?raw=true"/>
 
 ---
 ### Other Data Science Projects
