@@ -13,7 +13,7 @@
 ---
 [Share Price Prediction](/pdf/sample_presentation.pdf){:target="_blank"}
 <br>
-<img src="images/stock-market.jpg?raw=true"/>
+<img src="images/stock-market.jpg? width=200"/>
 
 ---
 [Customer Segmentation](http://example.com/){:target="_blank"}
