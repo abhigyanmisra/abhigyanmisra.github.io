@@ -13,12 +13,12 @@
 ---
 [Share Price Prediction](/pdf/sample_presentation.pdf){:target="_blank"}
 <br>
-<img src="images/share-trends.png?raw=true"/>
+<img src="images/stock-market.jpg?raw=true"/>
 
 ---
 [Customer Segmentation](http://example.com/){:target="_blank"}
 <br>
-<img src="images/customer-segmentation.jpg?raw=true"/>
+<img src="images/customer-segmentation.png?raw=true"/>
 
 ---
 ### Other Data Science Projects
