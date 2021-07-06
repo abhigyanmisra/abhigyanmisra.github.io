@@ -4,9 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Full Stack Developer | AWS Solutions Architect | Data Scientist | Business Rules Architect | Application Architect 
   
   <br>
-  <a href="https://www.linkedin.com/in/abhigyanmisra">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/abhigyanmisra">View My LinkedIn Profile</a>{:target="_blank"}
   <br>
-  <a href = "mailto: abhigyanmisra@gmail.com">Send Email</a>
+  <a href = "mailto: abhigyanmisra@gmail.com">Send Email</a>{:target="_blank"}
   <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
