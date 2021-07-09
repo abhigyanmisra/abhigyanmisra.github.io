@@ -28,10 +28,10 @@ Hands on AWS Architect, Full Stack Developer, Data Scientist/Engineer with over 
 ---
 ### Other Data Science Projects
 
-- [2019 Indian General Elections Analysis](https://github.com/abhigyanmisra/dsc540/blob/master/finalproject/FinalProject.ipynb)
-- [Prediction of Mortality Risk for Cardio Vascular Patients: Using Python](https://github.com/abhigyanmisra/dsc530/blob/master/Final/DSC530_FinalProject_AbhigyanMisra.ipynb)
-- [Prediction of Mortality Risk for Cardio Vascular Patients: Using R](https://github.com/abhigyanmisra/dsc520/blob/master/completed/FinalDataSet3/Final_DS3_MisraAbhigyan.html)
-- [Predicting Readmission of Diabetic Patients](https://github.com/abhigyanmisra/dsc630/blob/master/FinalProject/Milestone3-PreliminaryAnalysis.ipynb)
+- [2019 Indian General Elections Analysis](https://github.com/abhigyanmisra/dsc680/tree/master/IndianElectionsAnalysis){:target="_blank"} | [Code](https://github.com/abhigyanmisra/dsc680/blob/master/IndianElectionsAnalysis/IndianElectionAnalysis.ipynb){:target="_blank"}
+- [Prediction of Mortality Risk for Cardio Vascular Patients: Using Python](https://github.com/abhigyanmisra/dsc680/tree/master/MortalityPredictionUsingPython){:target="_blank"} | [Code](https://github.com/abhigyanmisra/dsc680/blob/master/MortalityPredictionUsingPython/MortalityPredictionUsingPython.ipynb){:target="_blank"}
+- [Prediction of Mortality Risk for Cardio Vascular Patients: Using R](https://github.com/abhigyanmisra/dsc680/tree/master/MortalityPredictionUsingR){:target="_blank"}| [Code](https://github.com/abhigyanmisra/dsc680/blob/master/MortalityPredictionUsingR/MortalityPredictionUsingR.Rmd){:target="_blank"}
+- [Predicting Readmission of Diabetic Patients](https://github.com/abhigyanmisra/dsc680/tree/master/DiabeticReadmission){:target="_blank"} | [Code](https://github.com/abhigyanmisra/dsc680/blob/master/DiabeticReadmission/DiabeticReadmission.ipynb){:target="_blank"}
 
 ### Data Visualization - Dashboards - Using Power BI
 - [Dashboard 1 - Airline Safety](https://github.com/abhigyanmisra/dsc680/blob/master/Dashboards/Airline){:target="_blank"}
