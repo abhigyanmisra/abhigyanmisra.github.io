@@ -45,9 +45,9 @@ Hands on AWS Architect, Full Stack Developer, Data Scientist/Engineer with over 
 ---
 
 ### AWS, Microservices, Rules Engines
-- [Rest API Gateway with Zuul](http://example.com/)
-- [Simple Spring boot Microservice](http://example.com/)
-- [H2O Machine Learning Model as Microservice](http://example.com/)
+- [Rest API Gateway with Zuul](https://github.com/abhigyanmisra/api-gateway-sample){:target="_blank"}
+- [Simple Spring boot Microservice](https://github.com/abhigyanmisra/simple-springboot-app){:target="_blank"}
+
 
 ---
 
