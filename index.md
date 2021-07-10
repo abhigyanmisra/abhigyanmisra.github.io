@@ -19,11 +19,13 @@ Hands on AWS Architect, Full Stack Developer, Data Scientist/Engineer with over 
 [Share Price Prediction](/pdf/sample_presentation.pdf){:target="_blank"}
 <br>
 [Project Proposal](https://github.com/abhigyanmisra/dsc680/blob/master/Project2/Proposal%20-%20Share%20Price%20Prediction%20%26%20Trend%20Analysis.docx){:target="_blank"}|[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Project2/SharePrediction.ipynb){:target="_blank"}
+<br>
 <img src="images/stock-market.jpg" width="400"/>
 
 ---
 [Customer Segmentation](http://example.com/){:target="_blank"}
 <br>
+
 <img src="images/customer-segmentation.png" width="400"/>
 
 ---
