@@ -16,7 +16,7 @@ Hands on AWS Architect, Full Stack Developer, Data Scientist/Engineer with over 
 <img src="images/ecommerce-retail.png" width="400" />
 
 ---
-[Share Price Prediction](https://github.com/abhigyanmisra/dsc680/blob/master/Project2)){:target="_blank"}
+[Share Price Prediction](https://github.com/abhigyanmisra/dsc680/blob/master/Project2){:target="_blank"}
 <br>
 [Project Proposal](https://github.com/abhigyanmisra/dsc680/blob/master/Project2/Proposal%20-%20Share%20Price%20Prediction%20%26%20Trend%20Analysis.docx){:target="_blank"}|[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Project2/SharePrediction.ipynb){:target="_blank"}
 <br>
