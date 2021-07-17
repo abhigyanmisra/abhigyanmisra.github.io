@@ -23,7 +23,9 @@ Hands on AWS Architect, Full Stack Developer, Data Scientist/Engineer with over 
 <img src="images/stock-market.jpg" width="400"/>
 
 ---
-[Customer Segmentation](https://github.com/abhigyanmisra/dsc680/blob/master/Project3){:target="_blank"}
+[Customer Churning / Attrition](https://github.com/abhigyanmisra/dsc680/blob/master/Project3){:target="_blank"}
+<br>
+[Project Proposal](https://github.com/abhigyanmisra/dsc680/blob/master/Project3/Proposal%20-%20Customer%20Churning.docx){:target="_blank"}|[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Project2/CustomerChurning.ipynb){:target="_blank"}
 <br>
 
 <img src="images/customer-segmentation.png" width="400"/>
