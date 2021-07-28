@@ -2,7 +2,7 @@
 ---
 Hands on AWS Architect, Full Stack Developer, Data Scientist/Engineer with over 15 years of experience in analysis, design, development, testing and deployment of software applications across different domains – Banking, Credit Cards, Insurance, Healthcare, Retail etc.<br>
 <br>
-<a href="pdf/AbhigyanMisra.pdf" target="_blank">Download Resume</a>
+<a href="pdf/AbhigyanMisra-1Pager.pdf" target="_blank">Download Resume</a>
 
 ## Technical Skills
 ---
