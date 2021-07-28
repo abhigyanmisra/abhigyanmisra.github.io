@@ -1,6 +1,8 @@
 ## About Me
 ---
-Hands on AWS Architect, Full Stack Developer, Data Scientist/Engineer with over 15 years of experience in analysis, design, development, testing and deployment of software applications across different domains – Banking, Credit Cards, Insurance, Healthcare, Retail etc.
+Hands on AWS Architect, Full Stack Developer, Data Scientist/Engineer with over 15 years of experience in analysis, design, development, testing and deployment of software applications across different domains – Banking, Credit Cards, Insurance, Healthcare, Retail etc.<br>
+<br>
+<a href="pdf/AbhigyanMisra.pdf">Download Resume</a>
 
 ## Technical Skills
 ---
@@ -15,7 +17,7 @@ AWS, Gaia, Cloud Technologies, Java, Python, R, Spring Boot , Microservices, Mac
 <br>
 [Project Proposal](https://github.com/abhigyanmisra/dsc680/blob/master/Project1/Proposal%20-%20Review%20Prediction%20and%20Sentimental%20Analysis.docx){:target="_blank"}|[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Project1/ReviewPredictionNSentimentalAnalysis.ipynb){:target="_blank"}
 <br>
-<img src="images/ecommerce-retail.png" width="400" />
+<img src="images/resume-cv.jpg" width="400" />
 
 ---
 [Share Price Prediction](https://github.com/abhigyanmisra/dsc680/blob/master/Project2){:target="_blank"}
