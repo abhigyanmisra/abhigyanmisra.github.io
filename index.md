@@ -29,7 +29,7 @@ AWS, Gaia, Cloud Technologies, Java, Python, R, Spring Boot , Microservices, Mac
 ---
 [Customer Churning / Attrition](https://github.com/abhigyanmisra/dsc680/blob/master/Project3){:target="_blank"}
 <br>
-[Project Proposal](https://github.com/abhigyanmisra/dsc680/blob/master/Project3/Proposal%20-%20Customer%20Churning.docx){:target="_blank"}|[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Project2/CustomerChurning.ipynb){:target="_blank"}
+[Project Proposal](https://github.com/abhigyanmisra/dsc680/blob/master/Project3/Proposal%20-%20Customer%20Churning.docx){:target="_blank"}|[Code](https://github.com/abhigyanmisra/dsc680/blob/master/Project3/CustomerRetention.ipynb){:target="_blank"}
 <br>
 
 <img src="images/customerchurn.jpg" width="400"/>
