@@ -1,10 +1,12 @@
 ## About Me
-
+---
 Hands on AWS Architect, Full Stack Developer, Data Scientist/Engineer with over 15 years of experience in analysis, design, development, testing and deployment of software applications across different domains – Banking, Credit Cards, Insurance, Healthcare, Retail etc.
 
+## Technical Skills
+---
+AWS, Gaia, Cloud Technologies, Java, Python, R, Spring Boot , Microservices, Machine Learning Model Implementations, H2O, Rules Based Systems, Blaze Advisor Rules Engine, Drools, WODM, Pega, PCF, AWS EC2, AWS S3, AWS SNS, AWS SES, Docker, Openshift, Github, SVN, Clearcase, WAS, Tomcat, JBoss, MariaDB, MySQL, Postgress, Snowflake 
 
 ## Portfolio
-
 ---
 
 ### Data Science 
